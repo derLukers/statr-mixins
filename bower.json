@@ -1,0 +1,36 @@
+{
+  "name": "statr-mixins",
+  "version": "0.0.1",
+  "authors": [
+    "Lukas Peleska <git@luaks.net>"
+  ],
+  "description": "Mixins for derLukers/Statr",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "State Engine",
+    "State",
+    "Stateful",
+    "Statr",
+    "Mixins"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/derLukers/statr-mixins",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "devDependencies": {
+    "requirejs": "~2.1.15",
+    "jquery": "~2.1.1",
+    "es6-promise": "http://es6-promises.s3.amazonaws.com/es6-promise-2.0.1.js",
+    "statr": "git@github.com:derLukers/statr",
+    "underscore": "~1.8.2"
+  },
+  "": {}
+}
