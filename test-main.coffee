@@ -26,6 +26,7 @@ require.config
     State: 'bower_components/statr/src/State'
     StateManager: 'bower_components/statr/src/StateManager'
     RoutedState: 'src/RoutedState'
+    NamedState: 'src/NamedState'
 
   shim:
     underscore:
